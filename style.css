@@ -1,0 +1,10 @@
+body {
+	background-color: #c9def0;
+}
+
+img {
+    border-color: #f5c6cd;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10%; 
+}
